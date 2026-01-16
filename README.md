@@ -1,7 +1,7 @@
 # turtles-stack
 Turtles all the way down...
 
-# Literature
+# Bibliography
 
 https://en.wikipedia.org/wiki/Capability_Hardware_Enhanced_RISC_Instructions
 
